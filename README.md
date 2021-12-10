@@ -1,13 +1,6 @@
 # Junior Scraping Engineer exercise
 
-Please complete the following exercise and deliver it using either a zip file, or a private GitHub repository shared with the
-GitHub user “belvo-hiring”.
-
-Please use either Python or Javascript to complete the exercise.
-
-Thanks!
-
-Mission
+### Mission
 
 Your mission is to write a program that will extract, as quickly as possible (eg. using threads or async programming), 
 information from a few different blogs and websites:    
